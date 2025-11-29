@@ -3,7 +3,7 @@
 
 **Candidate:** Md. Tanvir Jawad 
 **Date:** November 29, 2025  
-**GitHub:** https://github.com/yourusername/bengali-empathetic-llama  
+**GitHub:** https://github.com/TanvirJawad/bengali-empathetic-llama  
 **Trained on:** Kaggle Free T4 × 2 GPUs | Full 4096 Context | Zero Truncation
 
 ---

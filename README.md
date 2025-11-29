@@ -1,7 +1,7 @@
 # Fine-Tuning LLaMA 3.1-8B-Instruct on Bengali Empathetic Conversations  
 **AI Engineer Technical Test Submission**
 
-**Candidate:** [Your Full Name]  
+**Candidate:** Md. Tanvir Jawad 
 **Date:** November 29, 2025  
 **GitHub:** https://github.com/yourusername/bengali-empathetic-llama  
 **Trained on:** Kaggle Free T4 × 2 GPUs | Full 4096 Context | Zero Truncation
